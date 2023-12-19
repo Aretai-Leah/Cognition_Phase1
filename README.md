@@ -40,10 +40,10 @@ Hopefully, this flexible cognitive model allows for a fair simulacra of intellig
 
 
 Phase 1
-** Framework
+* Framework
     * Custom groupchat separate cognition and executive functions
     * LLM independent  (Tested with Mistral & GPT 4)
-** Agents:
+* Agents:
     * Cognition
         * Self
         * Reasoning
